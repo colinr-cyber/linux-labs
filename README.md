@@ -1,5 +1,5 @@
 # Linux Labs
-Basic documented Linux fundamentals and system admin labs focused on security concepts including permissions, networking, and firewall config.
+Basic documented Linux fundamentals and system admin labs focused on security concepts.
 
 ## Topics Covered
 
